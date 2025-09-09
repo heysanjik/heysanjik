@@ -1,5 +1,3 @@
-<img width="100%" height="600px" alt="banner" src="https://github.com/user-attachments/assets/7f9e26fd-7150-4a83-8b01-b1a2b99f5460" />
-
 <div align="center">
   
 ## Hi, I'm Heysanjik 👋  
