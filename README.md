@@ -14,7 +14,6 @@
 <p>
   <a href="https://github.com/heysanjik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.youtube.com/@Heysanjik_s"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://x.com/Z_Kamronbek"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://app.daily.dev/@heysanjik"><img src="https://img.shields.io/badge/AppDaily-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   <a href="https://www.instagram.com/_heysanjik/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=61579265848645"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -33,7 +32,7 @@
 - 💼 Tajriba: **15+ yil** (2015 – hozirgacha)
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - ⚡️ Fun fact: I love coding at night 🌙
-- 📂 Portfolio: [devzk.netlify.app](https://devzk.netlify.app)
+- 📂 Portfolio: [heysanjik.com](https://heysanjik.mobirisesite.com/)
 
 
 ---
